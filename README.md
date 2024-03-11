@@ -1,2 +1,3 @@
-# xpro.github.io
-Xpro Corporation
+# Xpro Corporation
+
+The Xpro Corporation
